@@ -1,34 +1,35 @@
 <!DOCTYPE html>
 <html>
-<nav class="navigation navilooks"> <a class=".index" href="index.html"> Home |</a><a class=".aboutus" href="/AboutUs.html"> About Us </a> </nav>
 <head>
 
 <style>
 
-  .index a:hover:not(.active){
-      background-color: #255;
-  }
+.navilooks {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.navigation {
+  float: left;
+  border-right:1px solid #bbb;
+}
+.listyles a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
-  .aboutus a:hover:not(.active){
-    background-color: #255;
-  }
+.lihover a:hover:not(.active) {
+  background-color: #255;
+}
 
-  .active{
-    background-color: #519;
-  }
-
-  .navilooks{
-    font-family: impact;
-    color: #333;
-    text-align: left;
-  }
-
-  .navigation{
-    background-color: #333;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
+.active {
+  background-color: #519;
+}
 
   .john {
 
@@ -63,7 +64,7 @@
   }
 
   .general{
-
+    background-color:
 }
 
 </style>
@@ -71,6 +72,12 @@
 </head>
 
 <body>
+
+  <ul class="navilooks">
+  <li class="navigation"><a class="listyles lihover" href="index.html">Home</a></li>
+  <li class="navigation"><a class="listyles lihover" href="aboutus.html">About</a></li>
+</ul>
+
   <h1> Members </h1>
 
 </body>
