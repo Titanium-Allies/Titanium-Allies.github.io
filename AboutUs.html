@@ -4,34 +4,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=0.9">
 <style>
 
-.navilooks {
-  list-style-type: none;
-  height: 45px;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-.navigation {
-  float: left;
-  border-right:1px solid #bbb;
-  text-decoration: none;
-}
-.listyles a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: : 14px 16px;
-  text-decoration: none;
-}
-
-.lihover a:hover:not(.active) {
-  background-color: #255;
-}
-
-.active {
-  background-color: #519;
-}
 
   .john {
 
@@ -65,22 +37,32 @@
 
   }
 
-  .general{
+  .main{
     background-color:black;
 }
+
+  .head{
+    color: white;
+  }
+
+  .navigation{
+    background-color: #519;
+  }
+  .navistyle{
+    font-family: trebuchet;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: left;
+  }
 
 </style>
 
 </head>
 
-<body class="general">
-
-  <ul class="navilooks">
-  <li class="navigation"><a class="listyles lihover" href="index.html">Home</a></li>
-  <li class="navigation"><a class="listyles lihover" href="/AboutUs.html">About</a></li>
-</ul>
-
-  <h1> Members </h1>
+<body class="main">
+<nav class="navigation"><a class="navistyle" href="index.html">Home</a>  |  <a class="navistyle" href="/aboutus.html">About Us</a></nav>
+  <h1 class="head"> Members </h1>
 
 </body>
 
