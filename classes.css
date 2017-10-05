@@ -5,8 +5,10 @@
         border: 3px double cyan;
         border-radius: 17%;
         float: right;
+        clear: left;
         padding: 20px;
-        width: calc(100%-50%);
+        width: 50%;
+        display: inline-block;
 }
 
 .william{background-color: darkgreen;
@@ -16,8 +18,10 @@
         border: 3px solid #571;
         border-radius: 15%;
         float: left;
+        clear: right;
         padding: 20px;
-        width: calc(100%-50%);
+        width: 50%;
+        display: inline-block;
 }
 
 .simon{background-color:  black;
@@ -26,7 +30,8 @@
         color: springgreen;
         border: 3px dotted #519;
         border-radius: 12%;
-        float: right;
+        float: left;
+        clear: right;
         width: 50%;
         display: inline-block;
 }
@@ -38,8 +43,10 @@
         border: 3px dashed purple;
         border-radius: 10%;
         float: left;
+        clear: right;
         padding: 20px;
-        width: calc(100%-50%);
+        width: 50%;
+        display: inline-block;
 }
 
 .peter{ background-color:  #924;
@@ -48,7 +55,8 @@
         color: #755;
         border: 3px solid,dotted #176;
         border-radius: 8%;
-        float: left;
+        float: right;
+        clear: left;
         display: inline-block;
         width:50%;
 }
@@ -60,8 +68,10 @@
         border: 3px dotted,dashed,double,solid blue;
         border-radius: 5%;
         float: right;
+        clear: left;
         padding: 20px;
-        width: calc(100%-50%);
+        width: 50%;
+        display: inline-block;
 }
 
 .coach{background-color:  #248;
