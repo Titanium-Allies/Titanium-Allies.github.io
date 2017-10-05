@@ -1,0 +1,127 @@
+.john {background-color: #831;
+        font-family: courier;
+        font-size: 126%;
+        color: #349;
+        border: 3px double cyan;
+        border-radius: 17%;
+        margin-right: 0;
+        margin-left: auto;
+        padding: 5px;
+}
+
+.william{background-color: darkgreen;
+        font-family: georgia;
+        font-size: 130%;
+        color: gold;
+        border: 3px solid #571;
+        border-radius: 15%;
+        margin-right: auto;
+        margin-left: 0;
+        padding: 5px;
+}
+
+.simon{background-color:  black;
+        font-family: arial;
+        font-size: 128%;
+        color: springgreen;
+        border: 3px dotted #519;
+        border-radius: 12%;
+        margin-right: 0;
+        margin-left: auto;
+        padding: 5px;
+}
+
+.brandon{background-color: silver ;
+        font-family: impact;
+        font-size: 122%;
+        color: white;
+        border: 3px dashed purple;
+        border-radius: 10%;
+        margin-right: auto;
+        margin-left: 0;
+        padding: 5px;
+}
+
+.peter{ background-color:  #924;
+        font-family: times;
+        font-size: 114%;
+        color: #755;
+        border: 3px solid,dotted #176;
+        border-radius: 8%;
+        margin-right: auto;
+        margin-left: 0;
+        padding: 5px;
+}
+
+.alexander{background-color: white ;
+        font-family: arial;
+        font-size: 150%;
+        color: red;
+        border: 3px dotted,dashed,double,solid blue;
+        border-radius: 5%;
+        margin-right: 0;
+        margin-left: auto;
+        padding: 5px;
+}
+
+.coach{background-color:  #248;
+        font-family: trebuchet;
+        font-size: 135%;
+        color: #637;
+        border: 3px double,dashed #159;
+        border-radius: 3%;
+        margin-right: auto;
+        margin-left: auto;
+        padding: 5px;
+}
+
+.memberdesc{
+
+
+}
+
+.main{
+  background-color:black;
+}
+
+.head{
+  color: white;
+  text-align: center;
+}
+
+.navigation{
+  background-color: #519;
+  margin: auto;
+  text-align: center;
+}
+.navistyle{
+  font-family: trebuchet;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.header {text-align: center;
+   color:rgb(171, 86, 255);
+ }
+.headerguys {
+}
+.floatLeft {float: left; margin-left: 1px;
+}
+.floatRight {float: right;
+}
+
+.align {text-align: left;
+}
+
+.teamdesc {color: silver; text-align: left;
+}
+.events {color:orange; text-align: left; clear: left
+}
+
+.logo {display: block; margin: auto;}
+
+nav.a:hover{
+  border-color: yellow;
+  color: black;
+}
