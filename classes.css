@@ -27,7 +27,6 @@
         border: 3px dotted #519;
         border-radius: 12%;
         float: right;
-        padding: 20px;
         width: 50%;
         display: inline-block;
 }
@@ -50,8 +49,8 @@
         border: 3px solid,dotted #176;
         border-radius: 8%;
         float: left;
-        padding: 20px;
-        width: calc(100%-50%);
+        display: inline-block;
+        width:50%;
 }
 
 .alexander{background-color: white ;
