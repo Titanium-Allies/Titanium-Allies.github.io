@@ -4,9 +4,9 @@
         color: #349;
         border: 3px double cyan;
         border-radius: 17%;
-        margin-right: 0;
-        margin-left: auto;
-        padding: 5px;
+        float: right;
+        padding: 20px;
+        width: auto;
 }
 
 .william{background-color: darkgreen;
@@ -15,9 +15,9 @@
         color: gold;
         border: 3px solid #571;
         border-radius: 15%;
-        margin-right: auto;
-        margin-left: 0;
-        padding: 5px;
+        float: left;
+        padding: 20px;
+        width: auto;
 }
 
 .simon{background-color:  black;
@@ -26,9 +26,9 @@
         color: springgreen;
         border: 3px dotted #519;
         border-radius: 12%;
-        margin-right: 0;
-        margin-left: auto;
-        padding: 5px;
+        float: right;
+        padding: 20px;
+        width: auto;
 }
 
 .brandon{background-color: silver ;
@@ -37,9 +37,9 @@
         color: white;
         border: 3px dashed purple;
         border-radius: 10%;
-        margin-right: auto;
-        margin-left: 0;
-        padding: 5px;
+        float: left;
+        padding: 20px;
+        width: auto;
 }
 
 .peter{ background-color:  #924;
@@ -48,9 +48,9 @@
         color: #755;
         border: 3px solid,dotted #176;
         border-radius: 8%;
-        margin-right: auto;
-        margin-left: 0;
-        padding: 5px;
+        float: left;
+        padding: 20px;
+        width: auto;
 }
 
 .alexander{background-color: white ;
@@ -59,9 +59,9 @@
         color: red;
         border: 3px dotted,dashed,double,solid blue;
         border-radius: 5%;
-        margin-right: 0;
-        margin-left: auto;
-        padding: 5px;
+        float: right;
+        padding: 20px;
+        width: auto;
 }
 
 .coach{background-color:  #248;
@@ -72,12 +72,12 @@
         border-radius: 3%;
         margin-right: auto;
         margin-left: auto;
-        padding: 5px;
+        width: auto;
+        padding: 20px;
 }
 
-.memberdesc{
-
-
+.memberdesc{text-align: center;
+            color:#519
 }
 
 .main{
@@ -121,7 +121,7 @@
 
 .logo {display: block; margin: auto;}
 
-nav.a:hover{
+nav>a:hover{
   border-color: yellow;
   color: black;
 }
