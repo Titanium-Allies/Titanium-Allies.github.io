@@ -87,6 +87,10 @@
         clear: both;
 }
 
+.inline{display: flex;
+
+}
+
 .memberdesc{text-align: center;
             color:#519
 }
