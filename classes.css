@@ -6,7 +6,7 @@
         border-radius: 17%;
         float: right;
         padding: 20px;
-        width: auto;
+        width: calc(100%-50%);
 }
 
 .william{background-color: darkgreen;
@@ -17,7 +17,7 @@
         border-radius: 15%;
         float: left;
         padding: 20px;
-        width: auto;
+        width: calc(100%-50%);
 }
 
 .simon{background-color:  black;
@@ -28,7 +28,7 @@
         border-radius: 12%;
         float: right;
         padding: 20px;
-        width: auto;
+        width: calc(100%-50%);
 }
 
 .brandon{background-color: silver ;
@@ -39,7 +39,7 @@
         border-radius: 10%;
         float: left;
         padding: 20px;
-        width: auto;
+        width: calc(100%-50%);
 }
 
 .peter{ background-color:  #924;
@@ -50,7 +50,7 @@
         border-radius: 8%;
         float: left;
         padding: 20px;
-        width: auto;
+        width: calc(100%-50%);
 }
 
 .alexander{background-color: white ;
@@ -61,7 +61,7 @@
         border-radius: 5%;
         float: right;
         padding: 20px;
-        width: auto;
+        width: calc(100%-50%);
 }
 
 .coach{background-color:  #248;
@@ -72,8 +72,9 @@
         border-radius: 3%;
         margin-right: auto;
         margin-left: auto;
-        width: auto;
+        width: calc(100%-50%);
         padding: 20px;
+        clear: both;
 }
 
 .memberdesc{text-align: center;
