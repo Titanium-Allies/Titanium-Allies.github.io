@@ -28,7 +28,8 @@
         border-radius: 12%;
         float: right;
         padding: 20px;
-        width: calc(100%-50%);
+        width: 50%;
+        display: inline-block;
 }
 
 .brandon{background-color: silver ;
@@ -72,7 +73,7 @@
         border-radius: 3%;
         margin-right: auto;
         margin-left: auto;
-        width: calc(100%-50%);
+        width:50%;
         padding: 20px;
         clear: both;
 }
