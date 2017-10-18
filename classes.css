@@ -6,6 +6,7 @@
         border: 3px dotted #519;
         border-radius: 12%;
         margin-right: 30px;
+        margin-top: 20px;
         width: 40%;
         display: inline-block;
 }
@@ -65,7 +66,7 @@
 }
 
 .logo {display: block; margin: auto;}
-.legofly{width="150px; height="250px; border-radius:4%;"}
+.legofly{border-radius:4%;"}
 .legofly1{float: left;}
 .legofly2{float: right;}
 nav>a:hover{
