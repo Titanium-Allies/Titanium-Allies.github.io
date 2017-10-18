@@ -66,9 +66,8 @@
 }
 
 .logo {display: block; margin: auto;}
-.legofly{border-radius:4%;"}
-.legofly1{float: left;}
-.legofly2{float: right;}
+.legoflyL{text-align: left;}
+.legoflyR{text-align: right;}
 nav>a:hover{
   border-color: yellow;
   color: black;
