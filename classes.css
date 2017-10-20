@@ -2,7 +2,6 @@
 .bio{background-color:  black;
         font-family: arial;
         font-size: 128%;
-        color: white;
         border: 3px solid silver;
         border-radius: 12%;
         margin-right: 30px;
@@ -23,7 +22,7 @@
 }
 
 .memberdesc{text-align: center;
-            color:#519
+            color:gray;
 }
 
 .main{
@@ -68,7 +67,6 @@
 .legoImg {
     width: 150px;
     height: 250px;
-    src: url(Flier.jpg);
     border-radius: 4%;
 }
 
