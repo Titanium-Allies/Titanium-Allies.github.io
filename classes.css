@@ -65,9 +65,16 @@
 .events {color:orange; text-align: left; clear: left
 }
 
+.legoImg {
+    width: 150px;
+    height: 250px;
+    content: url(lego.jpg);
+    border-radius: 4%;
+}
+
 .logo {display: block; margin: auto;}
-.legoflyL{text-align: left;}
-.legoflyR{text-align: right;}
+.legoImgL{float: left;}
+.legoImgR{float: right;}
 nav>a:hover{
   border-color: yellow;
   color: black;
