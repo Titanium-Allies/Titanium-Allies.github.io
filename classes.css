@@ -68,7 +68,6 @@
     width: 150px;
     height: 250px;
     border-radius: 4%;
-    content: url(Flier.jpg);
 }
 
 .logo {display: block; margin: auto;}
