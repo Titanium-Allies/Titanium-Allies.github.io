@@ -2,8 +2,8 @@
 .bio{background-color:  black;
         font-family: arial;
         font-size: 128%;
-        color: springgreen;
-        border: 3px dotted #519;
+        color: white;
+        border: 3px solid silver;
         border-radius: 12%;
         margin-right: 30px;
         margin-top: 20px;
@@ -68,7 +68,7 @@
 .legoImg {
     width: 150px;
     height: 250px;
-    content: url(lego.jpg);
+    content: url(Flier.jpg);
     border-radius: 4%;
 }
 
