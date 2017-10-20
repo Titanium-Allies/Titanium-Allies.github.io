@@ -68,7 +68,7 @@
 .legoImg {
     width: 150px;
     height: 250px;
-    content: url(Flier.jpg);
+    src: url(Flier.jpg);
     border-radius: 4%;
 }
 
