@@ -49,14 +49,19 @@
 .header {text-align: center;
    color:rgb(122, 52, 169);
  }
-.headerguys {
-}
+
+.heading{}
+
 .floatLeft {float: left; margin-left: 1px;
 }
 .floatRight {float: right;
 }
 
-.align {text-align: left;
+.alignL {text-align: left;
+}
+.alignC {text-align: center;
+}
+.alignR {text-align: right;
 }
 
 .teamdesc {color: silver; text-align: left;
@@ -73,6 +78,12 @@
 .logo {display: block; margin: auto;}
 .legoImgL{float: left;}
 .legoImgR{float: right;}
+
+.foot {
+  color: gray;
+  font-weight: bold;
+}
+
 nav>a:hover{
   border-color: yellow;
   color: black;
