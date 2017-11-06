@@ -85,7 +85,6 @@
 }
 
 table, th, td {
-    text-align: center;
     color: yellow;
     border: 1px solid white;
 }
