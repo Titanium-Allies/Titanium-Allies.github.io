@@ -84,6 +84,10 @@
   font-weight: bold;
 }
 
+table, th, td {
+    border: 1px solid black;
+}
+
 nav>a:hover{
   border-color: yellow;
   color: black;
