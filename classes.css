@@ -27,7 +27,6 @@
 
 .main{
   background-color:black;
-  font-size: 40px;
 }
 
 .head{
@@ -66,6 +65,7 @@
 }
 
 .teamdesc {color: silver; text-align: left;
+            font-size: 20px;
 }
 .events {color:orange; text-align: left; clear: left
 }
