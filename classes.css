@@ -16,6 +16,10 @@
           clear: right;
 }
 
+.bioimg {width: 20%;
+         height: 20%;        
+}
+
 .inline{display: flex;
         justify-content: center;
 
